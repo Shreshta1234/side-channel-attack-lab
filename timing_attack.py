@@ -2,7 +2,7 @@ import time
 import string
 
 # Secret password (unknown to attacker)
-SECRET = "secure123"
+SECRET = "s3cur312e"
 
 # Vulnerable password check function
 def check_password(user_input):
